@@ -34,6 +34,9 @@ while True:
 
     elif choice == "4":
         print("👋 Exiting...")
+        print(f"📌 You have {len(tasks)} tasks in your list. Thanks for using the To-Do App!")
+print("Have a great day! ✅")
+
         break
 
     else:
